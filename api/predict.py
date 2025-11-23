@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 import os
 
+
 # Path to your trained model
 MODEL_PATH = "./content/best_model.pkl"
 
