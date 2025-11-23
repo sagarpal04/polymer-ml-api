@@ -1,0 +1,21 @@
+.vercel
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+
+# Model training files (optional)
+*.ipynb
+train.py
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
